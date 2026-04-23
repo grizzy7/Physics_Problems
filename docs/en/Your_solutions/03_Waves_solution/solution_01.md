@@ -19,3 +19,7 @@ $$\lambda = \frac{343}{440} \approx \mathbf{0.780 \text{ m}}$$
 $$v = 1482 \text{ m/s}$$
 $$f = 440 \text{ Hz}$$
 $$\lambda = \frac{1482}{440} \approx \mathbf{3.368 \text{ m}}$$
+
+
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/2641e61f-3809-4680-8831-2d774d736de5" />
