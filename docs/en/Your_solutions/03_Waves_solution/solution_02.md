@@ -1,3 +1,10 @@
+2. String Harmonics
+A guitar string is 64 cm long and has a fundamental frequency (one antinode) of 330 Hz. What is the speed of the wave on this string?
+
+
+
+
+
 Given:
 * $L = 64 \text{ cm} = 0.64 \text{ m}$
 * $f = 330 \text{ Hz}$
