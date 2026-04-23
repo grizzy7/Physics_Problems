@@ -1,3 +1,6 @@
+1. Wave Properties
+A sound wave in air has a frequency of 440 Hz. If the speed of sound in air is 343 m/s, what is its wavelength? What is its wavelength in water, where the speed of sound is 1482 m/s?
+
 
 
 
