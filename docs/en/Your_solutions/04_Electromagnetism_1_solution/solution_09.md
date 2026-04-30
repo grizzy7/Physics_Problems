@@ -78,6 +78,7 @@ $$F \approx 1.40 \times 10^{-18}\text{ N}$$
 
 
 
-[Image of vector cross product right hand rule]
+<img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/bbccdb17-d6ae-4bae-8303-7fe9f961f3d6" />
+
 
 
